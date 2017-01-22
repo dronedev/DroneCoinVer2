@@ -1,0 +1,9 @@
+Building DroneCoin
+
+See doc/readme-qt.rst for instructions on building DroneCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DroneCoin.
+
+See doc/build-*.txt for instructions on building dronecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DroneCoin.
